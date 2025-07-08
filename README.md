@@ -1,3 +1,5 @@
+[![CI](https://github.com/tomogwen/pytemplate/actions/workflows/ci.yml/badge.svg)](https://github.com/tomogwen/pytemplate/actions/workflows/ci.yml)
+
 # 📝 Python Project Template
 
 A lightweight Python project template that uses [`uv`](https://github.com/astral-sh/uv) for environment management, [`pre-commit`](https://pre-commit.com/) for code linting and formatting, and [`pytest`](https://docs.pytest.org/) for unit testing.
