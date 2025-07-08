@@ -2,7 +2,7 @@
 
 # 📝 Python Project Template
 
-A lightweight Python project template that uses [`uv`](https://github.com/astral-sh/uv) for environment management, [`pre-commit`](https://pre-commit.com/) for code linting and formatting, and [`pytest`](https://docs.pytest.org/) for unit testing.
+A lightweight Python project template that uses [`uv`](https://docs.astral.sh/uv/) for environment and project management, [`ruff`](https://docs.astral.sh/ruff/) for code linting and formatting, and [`pytest`](https://docs.pytest.org/) for unit testing.
 
 ## 📦 Using UV
 
