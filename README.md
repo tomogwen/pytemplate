@@ -1,4 +1,4 @@
-[![CI](actions/workflows/ci.yml/badge.svg)](actions/workflows/ci.yml)
+[![CI](../../actions/workflows/ci.yml/badge.svg)](../../actions/workflows/ci.yml)
 
 # 📝 Python Project Template
 
